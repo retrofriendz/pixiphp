@@ -12,6 +12,6 @@ https://www.youtube.com/watch?v=Z-oN_YI3KIE&list=PLzilNkL7KAZGoeKIsDpo0CPQv7UCL_
 Based on code from this family of repos:
 
 * Papi: http://github.com/h3rb/papi
-** Pagemin: http://github.com/h3rb/pagemin
-** Page: http://github.com/h3rb/page
+* Pagemin: http://github.com/h3rb/pagemin
+* Page: http://github.com/h3rb/page
 
