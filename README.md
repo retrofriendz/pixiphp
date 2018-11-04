@@ -1,4 +1,8 @@
-# PixiPHP v0.5
+# PixiPHP v0.5 Game Server Backend for the Pixitron Engine
+
+This implements a web-server backend for validated games and game matchmaking with other users.
+
+For the client side, we are using code from the repo: http://github.com/LAGameStudio/pixitron
 
 Code from the Pixitron Game Engine tutorials as part of the
 RetroFriends RETROLAB CODE series, as seen on YouTube:
