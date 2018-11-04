@@ -1,6 +1,0 @@
-AuthName "Restricted Area" 
-AuthType Basic 
-AuthUserFile /home/ubuntu/.htpasswd 
-AuthGroupFile /dev/null 
-require valid-user
-DirectoryIndex index.php
