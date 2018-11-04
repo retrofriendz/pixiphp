@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /var/www/pixigame/
+cat cache/logs/last-log.txt
